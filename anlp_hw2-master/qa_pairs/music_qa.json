@@ -1,0 +1,1160 @@
+[
+    {
+        "question": "Who is creating the new production of Madama Butterfly at Benedum Center?",
+        "answer": "An all Japanese and Japanese American creative team\n\n        2.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can people see the new production of Madama Butterfly in Pittsburgh?",
+        "answer": "Benedum Center\n\n        3.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 1
+    },
+    {
+        "question": "What unique aspect does the new production of Madama Butterfly bring to the table?",
+        "answer": "The story is transported to a fantastical realm where reality and dreams intersect.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who is creating the new production of Madama Butterfly at Benedum Center?",
+        "answer": "An all Japanese and Japanese American creative team is creating the new production of Madama Butterfly at Benedum Center.\n\n        2.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is unique about the upcoming production of Madama Butterfly at Benedum Center?",
+        "answer": "The production is groundbreaking as it is created by an all Japanese and Japanese American creative team, and the story is transported to a fantastical realm where reality and dreams intersect.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 2
+    },
+    {
+        "question": "When can audiences see the new production of Madama Butterfly at Benedum Center?",
+        "answer": "The production is scheduled to be performed from March 22 to March 30, 2023.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is the current leader of Pittsburgh Opera?",
+        "answer": "Christopher Hahn",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 3
+    },
+    {
+        "question": "Where is Pittsburgh Opera's production of Madama Butterfly being staged?",
+        "answer": "Benedum Center",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 3
+    },
+    {
+        "question": "Who created the new production of Madama Butterfly at Pittsburgh Opera?",
+        "answer": "An all Japanese and Japanese American creative team",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 3
+    },
+    {
+        "question": "When was Pittsburgh Opera founded?",
+        "answer": "Pittsburgh Opera was founded in 1939 by five women belonging to Pittsburgh's Tuesday Musical Club.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 4
+    },
+    {
+        "question": "Where did Pittsburgh Opera move to in the late 1990s?",
+        "answer": "Pittsburgh Opera moved to the historic George Westinghouse Air Brake Factory at 2425 Liberty Avenue, in Pittsburgh's Strip District, and developed a range of audience and community programs there.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who are the founders of Pittsburgh Opera and when was it established?",
+        "answer": "Pittsburgh Opera was founded in 1939 by five women: pianist Virginia C. Byerly; contralto Carolyn Hunt Mahaffey; Priscilla W. Collins; Ruby N. Wickersham; and Marie M. Pease.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 4
+    },
+    {
+        "question": "When was The Pittsburgh Opera Society founded and by whom?",
+        "answer": "The Pittsburgh Opera Society was founded in March 1940 by Marie M. Pease, John C. Calhoun, Edward M. Conrad, Josephine H. Kunz, and William C. Mahaffey.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 5
+    },
+    {
+        "question": "Who conducted the first production of The Pittsburgh Opera Society?",
+        "answer": "The first production of The Pittsburgh Opera Society was conducted by Richard Karp of Vienna.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 5
+    },
+    {
+        "question": "When did The Pittsburgh Opera move to Heinz Hall and who oversaw the move?",
+        "answer": "The Pittsburgh Opera moved to Heinz Hall in 1971 and the move was overseen by its first conductor, Richard Karp.\n        or\n        The Pittsburgh Opera moved to Heinz Hall in 1971; this transition was led by its first conductor, Richard Karp.",
+        "source_url": "https://pittsburghopera.org/about/mission-history",
+        "chunk_id": 5
+    },
+    {
+        "question": "What is the title of the opera being performed at the Benedum Center in March 2025?",
+        "answer": "Madama Butterfly\n\n        2.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of event is the \"Pre-Opera Talk\" and when does it take place during the performance of Madama Butterfly?",
+        "answer": "The \"Pre-Opera Talk\" is an educational event where audience members can learn about the opera before it starts. It takes place one hour before each performance of Madama Butterfly, specifically on March 21, 22, 25, 28, and 30, 2025.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who or what is the focus of the \"Meet the Artists\" event related to Madama Butterfly on March 25, 2025?",
+        "answer": "The \"Meet the Artists\" event on March 25, 2025, provides an opportunity for the audience to meet the cast and crew of Madama Butterfly.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 1
+    },
+    {
+        "question": "What opera performance is taking place at the Benedum Center on March 30, 2025?",
+        "answer": "Madama Butterfly\n\n        2.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 2
+    },
+    {
+        "question": "When does the Benedum Center host Madama Butterfly in March 2025?",
+        "answer": "The performance takes place on March 30, 2025 at 2:00 PM.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which opera is being presented at the Pittsburgh Opera in March 2025? (Bonus: Who is the composer?)",
+        "answer": "Madama Butterfly; Giacomo Puccini",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1740805200000&end=1743393600000",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the title of the opera being performed at Pittsburgh Opera in April 2025?",
+        "answer": "Woman With Eyes Closed\n\n        2.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1743480000000&end=1746053940000",
+        "chunk_id": 1
+    },
+    {
+        "question": "When is the April 12, 2025 event at Bitz Opera Factory related to?",
+        "answer": "The April 12, 2025 event at Bitz Opera Factory is a Song Shop Saturday.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1743480000000&end=1746053940000",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can people preview Woman With Eyes Closed before its performances in April 2025?",
+        "answer": "People can preview Woman With Eyes Closed on WQED-FM 89.3 and wqed.org/fm.\n           (There are three instances of this preview, but the question asks for the location, so only one answer is provided.)",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1743480000000&end=1746053940000",
+        "chunk_id": 1
+    },
+    {
+        "question": "What operas are being performed at the Pittsburgh Opera during the month of May 2025?",
+        "answer": "WOMAN WITH EYES CLOSED is being performed on May 2, 3, and 4, 2025. Maecenas XL is being performed on May 17, 2025.\n\n        2.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1746072000000&end=1748732340000",
+        "chunk_id": 1
+    },
+    {
+        "question": "In which month and year are the Pittsburgh Opera performances mentioned in the chunk taking place?",
+        "answer": "The Pittsburgh Opera performances mentioned in the chunk are taking place in May 2025.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1746072000000&end=1748732340000",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can one view the opera \"Maecenas XL\" during its Pittsburgh performance?",
+        "answer": "The opera \"Maecenas XL\" can be viewed at Monterey Bay Fish Grotto during its Pittsburgh performance.\n           (Assuming Monterey Bay Fish Grotto is a venue mentioned elsewhere on the website or is commonly known as a Pittsburgh opera venue.)",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1746072000000&end=1748732340000",
+        "chunk_id": 1
+    },
+    {
+        "question": "When does the Bravo Academy Session 1 of Bitz Opera Factory take place in July 2025?",
+        "answer": "The Bravo Academy Session 1 of Bitz Opera Factory takes place from Monday, July 7, 2025 to Friday, July 11, 2025.\n\n        2.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1751342400000&end=1754002740000",
+        "chunk_id": 1
+    },
+    {
+        "question": "What are the dates for the two Bravo Academy sessions at Bitz Opera Factory in July 2025?",
+        "answer": "The first Bravo Academy session takes place from Monday, July 7, 2025 to Friday, July 11, 2025. The second session takes place from Monday, July 14, 2025 to Friday, July 18, 2025.\n\n        3.",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1751342400000&end=1754002740000",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which organization hosts the Bravo Academy sessions in July 2025?",
+        "answer": "Bitz Opera Factory",
+        "source_url": "https://pittsburghopera.org/calendar?timequery=month&prev=-1&start=1751342400000&end=1754002740000",
+        "chunk_id": 1
+    },
+    {
+        "question": "What are the different ways to purchase tickets for Pittsburgh Opera productions?",
+        "answer": "You can renew or purchase a new subscription (season ticket) online or by phone; buy single tickets for the current season; or take advantage of group sales and student ticket discounts.",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can students get affordable opera tickets in Pittsburgh?",
+        "answer": "Students can purchase affordable tickets through the student ticket program.",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 1
+    },
+    {
+        "question": "What are the ticket discounts available for groups in Pittsburgh Opera?",
+        "answer": "Group sales offer discounts for tickets purchased in groups. The exact discount amount is not mentioned in the content.",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can students find information about accessibility and wheelchair accommodations at the Bitz Opera Factory?",
+        "answer": "They can click here for the information or call 412-281-0912.",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which organization offers world-class opera performances for students in Pittsburgh?",
+        "answer": "Pittsburgh Opera",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 2
+    },
+    {
+        "question": "In which venue do Pittsburgh Opera's student performances take place?",
+        "answer": "Bitz Opera Factory",
+        "source_url": "https://pittsburghopera.org/tickets",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of event is taking place at Heinz Hall on March 15, 2025?",
+        "answer": "Lift Every Voice is a Classical Live Music event.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who is performing at Heinz Hall on March 19, 2025?",
+        "answer": "Lang Lang with the PSO is performing.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "When does the event Kanneh-Mason Performs Shostakovich take place at Heinz Hall?",
+        "answer": "It takes place from March 21 to March 23, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "What organization is hosting the event PSO360: Soul of the Cello at Heinz Hall on March 22, 2025?",
+        "answer": "Pittsburgh Symphony Orchestra",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of event is Speakers Series: Chris Wallace on March 26, 2025?",
+        "answer": "It is a Talks & Poetry event.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "In which month and approximately which week does the event Beethoven's Pastoral take place at Heinz Hall?",
+        "answer": "It takes place in March, around the 28th to 30th.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of music event is taking place at Heinz Hall from March 28 to March 30, 2025?",
+        "answer": "The Pastoral event at Heinz Hall from March 28 to March 30, 2025, is a Classical music event.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is organizing the event titled \"Student Side-by-Side\" on April 2, 2025?",
+        "answer": "The Pittsburgh Symphony Orchestra is organizing the \"Student Side-by-Side\" event on April 2, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "In what type of event is the Pittsburgh Symphony Orchestra presenting \"Total Eclipse of the Chart: Music of the 80s\" on April 3, 2025?",
+        "answer": "The Pittsburgh Symphony Orchestra is presenting \"Total Eclipse of the Chart: Music of the 80s\" as part of their Discovery & Drinks: Music & Cinema 2 events on April 3, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "Where is the \"Fiddlesticks: Imagine That!\" event taking place from April 4 to April 6, 2025?",
+        "answer": "The \"Fiddlesticks: Imagine That!\" event is taking place at Heinz Hall from April 4 to April 6, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of music concert is taking place at Heinz Hall on April 5, 2025?",
+        "answer": "There are two music concerts taking place at Heinz Hall on April 5, 2025: the Live Music Concert \"Boy Band Symphony\"; and the Live Music Concert Family \"Speakers Series: Andrew Lloyd Webber\".",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "What organization is responsible for the \"Speakers Series: Andrew Lloyd Webber\" event on April 7, 2025?",
+        "answer": "The Pittsburgh Symphony Orchestra is responsible for the \"Speakers Series: Andrew Lloyd Webber\" event on April 7, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "Where does the event titled \"Discovery & Drinks: Music & Cinema 2\" take place?",
+        "answer": "The exact venue for the \"Discovery & Drinks: Music & Cinema 2\" event is not mentioned",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 2
+    },
+    {
+        "question": "When is the Speakers Series with Andrew Lloyd Webber taking place?",
+        "answer": "The Speakers Series with Andrew Lloyd Webber is scheduled for Monday, April 7, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 3
+    },
+    {
+        "question": "What type of event is the Pittsburgh Symphony Orchestra hosting on April 7, 2025?",
+        "answer": "The Pittsburgh Symphony Orchestra is hosting a Live Music Concert on April 7, 2025, featuring Andrew Lloyd Webber as a speaker.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 3
+    },
+    {
+        "question": "What is the name of the talk or poetry event taking place at Heinz Hall on April 9, 2025?",
+        "answer": "Beethoven's Pastoral is the name of the Talks & Poetry event scheduled for April 9, 2025, at Heinz Hall.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar",
+        "chunk_id": 3
+    },
+    {
+        "question": "When is the Pittsburgh Symphony Orchestra hosting an event called \"Lovestruck\"?",
+        "answer": "The Pittsburgh Symphony Orchestra is hosting an event called \"Lovestruck\" on Thursday, April 10, 2025.\n\n        2.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What types of events is the Pittsburgh Symphony Orchestra hosting in April 2025?",
+        "answer": "The Pittsburgh Symphony Orchestra is hosting two classical live music events in April 2025: \"PSO Disrupt: Lovestruck\" and \"Beethoven and Brahms\".\n\n        3.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where and when can one attend the \"Maestro's Wine Dinner\" event?",
+        "answer": "The \"Maestro's Wine Dinner\" event takes place at Heinz Hall on Wednesday, April 23, 2025. The specific venue address is not provided in the content.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 1
+    },
+    {
+        "question": "When is the Clouds in my Coffee: Music of Joni Mitchell, Carole King & Carly Simon concert taking place?",
+        "answer": "May 9 - May 11, 2025",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of event is the Bronfman Plays Beethoven concert?",
+        "answer": "Classical Live Music",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is performing at the PSO360: Alice Sara Ott, piano event?",
+        "answer": "Alice Sara Ott",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which organization is hosting the Beethoven and Mahler concert?",
+        "answer": "Pittsburgh Symphony Orchestra",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "When does the Yo-Yo Ma concert take place?",
+        "answer": "June 4, 2025",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the name of the venue where all the events are being held?",
+        "answer": "Heinz Hall",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "How many live music concerts are taking place between May and June 2025, according to this chunk?",
+        "answer": "7 live music concerts are taking place between May and June 2025, according to this chunk.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which artist is performing at the \"Brahms Fourth Symphony\" concert?",
+        "answer": "The Pittsburgh Symphony Orchestra is performing at the \"Brahms Fourth Symphony\" concert.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "What are the names of the musicians performing in the \"Bronfman Plays Beethoven\" concert?",
+        "answer": "The name of the musician performing in the \"Bronfman Plays Beethoven\" concert is not mentioned in the given content.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 2
+    },
+    {
+        "question": "When is the next classical live music event at Heinz Hall, featuring Alice Sara Ott, piano?",
+        "answer": "The next classical live music event at Heinz Hall featuring Alice Sara Ott, piano is on Saturday, June 7, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Who is organizing the upcoming classical live music event, Rana Plays Mendelssohn, at Heinz Hall?",
+        "answer": "The Pittsburgh Symphony Orchestra is organizing the upcoming classical live music event, Rana Plays Mendelssohn, at Heinz Hall.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 3
+    },
+    {
+        "question": "What are the dates for the classical live music event, Rana Plays Mendelssohn, at Heinz Hall?",
+        "answer": "The classical live music event, Rana Plays Mendelssohn, at Heinz Hall will take place from Friday, June 13, 2025, to Sunday, June 15, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2017%2F12%2F12&order_by=production&page=2",
+        "chunk_id": 3
+    },
+    {
+        "question": "What classical music events is the Pittsburgh Symphony Orchestra hosting in June 2025?",
+        "answer": "Rana Plays Mendelssohn on June 13-15 and Kings of Soul on June 20-22.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who is performing a comedy show at Heinz Hall on June 19, 2025?",
+        "answer": "Adam Ray.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 1
+    },
+    {
+        "question": "What types of events is the Pittsburgh Symphony Orchestra hosting at Heinz Hall in July 2025?",
+        "answer": "Live Music Concert (Vince Gill) and Live Music Film (The Lord of the Rings: The Fellowship of the Ring).",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who are some notable musicians or comedians scheduled to perform at Heinz Hall in 2025 and 2026?",
+        "answer": "Diana Krall, Vince Gill, Marvel Infinity Saga, Louis C.K., Pittsburgh Symphony Orchestra (multiple classical live music performances), and Dvok are some of the notable musicians and comedians scheduled to perform at Heinz Hall in 2025 and 2026 according to this calendar.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 2
+    },
+    {
+        "question": "What types of events can be attended at Heinz Hall, as indicated by the provided calendar?",
+        "answer": "The provided calendar indicates that Live Music Concerts and Classical Live Music performances take place at Heinz Hall.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which organization is responsible for presenting most of the events at Heinz Hall, as indicated by the provided calendar?",
+        "answer": "Pittsburgh Symphony Orchestra",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the name of the symphony orchestra based in Pittsburgh?",
+        "answer": "Pittsburgh Symphony Orchestra",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 3
+    },
+    {
+        "question": "When is the next Pittsburgh Symphony Orchestra performance of Sibelius' Finlandia?",
+        "answer": "The next Pittsburgh Symphony Orchestra performance of Sibelius' Finlandia is from Fri, Oct 17 - Sun, Oct 19, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which venue is used for the majority of Pittsburgh Symphony Orchestra's classical live music events?",
+        "answer": "Heinz Hall",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 3
+    },
+    {
+        "question": "When is the Pittsburgh Symphony Orchestra performing Pablo Ferrndez's PSO360?",
+        "answer": "The Pittsburgh Symphony Orchestra is performing Pablo Ferrndez's PSO360 on November 15, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which organization is hosting the performance of Himari Plays Bruch?",
+        "answer": "The Pittsburgh Symphony Orchestra is hosting the performance of Himari Plays Bruch from November 28 to November 30, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 4
+    },
+    {
+        "question": "Where can one find the Pittsburgh Symphony Orchestra's preview of Carnegie Hall?",
+        "answer": "The Pittsburgh Symphony Orchestra's preview of Carnegie Hall is taking place at Heinz Hall on December 2, 2025.\n        Additionally, there is a performance of Shostakovich's Fifth at Heinz Hall from December 5 to December 7, 2025.\n        And a Messiah performance at Heinz Hall on December 9, 2025.\n        Therefore, there are multiple valid answers for this question.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 4
+    },
+    {
+        "question": "What is the name of the organization hosting the upcoming classical live music events at Heinz Hall?",
+        "answer": "Pittsburgh Symphony Orchestra",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 5
+    },
+    {
+        "question": "When is the Sensory Friendly Concert: Holiday Pops taking place?",
+        "answer": "The Sensory Friendly Concert: Holiday Pops is on Sat, Dec 13, 2025.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 5
+    },
+    {
+        "question": "What types of events are happening at Heinz Hall between Mar 12, 2025, and Sep 12, 2026, according to the website?",
+        "answer": "Classical Live Music events are taking place between Mar 12, 2025, and Sep 12, 2026, as indicated by the filter setting in the website content.",
+        "source_url": "https://www.pittsburghsymphony.org/calendar?end_date=2025%2F12%2F31&filter%5Bcurrent_page%5D=production&filter%5Bmax%5D=2026-09-12+14%3A22%3A02+-0400&filter%5Bmin%5D=2025-03-12T14%3A22%3A02-04%3A00&genre=All+Genres&organization_id=2&page=2&start_date=2025%2F03%2F20",
+        "chunk_id": 5
+    },
+    {
+        "question": "Who are the current chair holders for the first and second violin sections in the Pittsburgh Symphony Orchestra?",
+        "answer": "The first violin section in the Pittsburgh Symphony Orchestra is chaired by David McCarroll (Rachel Mellon Walton Chair) and Kelsey Blumenthal Ellen Chen-Livingston (Selma Wiener Berkman Memorial Chair). The second violin section is chaired by Jeremy Black (Principal, G. Christian Lantzsch & Duquesne Light Company Chair) and Andrew Fuller (Arlyn Gilboa Chair).",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which musicians in the Pittsburgh Symphony Orchestra hold associate concertmaster positions?",
+        "answer": "Justine Campagna and Marta Krechkovsky hold the associate concertmaster positions in the Pittsburgh Symphony Orchestra.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which musician in the Pittsburgh Symphony Orchestra holds the Lois R. Brozenick Memorial Chair for the viola section?",
+        "answer": "Sarah Clendenning holds the Lois R. Brozenick Memorial Chair for the viola section in the Pittsburgh Symphony Orchestra.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who holds the William & Sarah Galbraith Chair for the Pittsburgh Symphony Orchestra?",
+        "answer": "Andrew Fuller",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which chair position does Yeokyung Kim hold in the Pittsburgh Symphony Orchestra?",
+        "answer": "Boxianzi",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is the Principal Viola of the Pittsburgh Symphony Orchestra?",
+        "answer": "Tatjana Mead Chamis",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is the Acting Assistant Principal Viola of the Pittsburgh Symphony Orchestra?",
+        "answer": "Laura Fuller",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the name of the chair that Mikhail Istomin holds in the Pittsburgh Symphony Orchestra?",
+        "answer": "George & Eileen Dorman Chair",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who are the Chairs of the Pittsburgh Symphony Association?",
+        "answer": "Dale Jeong, Donald I. & Janet Moritz and Equitable Resources, Inc., and Adam Liu",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which musicians will be joining the Pittsburgh Symphony Orchestra for the 24-25 season?",
+        "answer": "Si Yu and Cello Anne Martindale Williams",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is the Principal of the Pittsburgh Symphony Orchestra?",
+        "answer": "Anne Martindale Williams",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which chair positions are currently held by acting musicians in the Pittsburgh Symphony Orchestra?",
+        "answer": "Marylne Gingras-Roy (Acting Associate Principal), Laura Fuller (Acting Assistant Principal Viola), and Sean Juhl, Erina Laraby-Goldwasser, Aaron Mossburg, and Stephanie Tretick (unnamed chairs).",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who are some of the principal chairs in the Pittsburgh Symphony Orchestra, and what instruments do they play?",
+        "answer": "Adam Liu is the Chair for the Violin section; Mikhail Istomin is the Chair for the Viola section; Bronwyn Banerdt is the Chair for the Violin section; Michael DeBruyn is the Chair for the Cello section; Alexandra Lee is the Chair for the Violin section; Yun-Ya Lo is the Chair for the Violin section; Charlie Powers is the Cello Chair; Karissa Shivone is the Bass Chair; Nicholas Myers is the Principal Bassist; Brandon McLean is the Principal Trumpet; Joseph Campagna is the Associate Principal Trumpet; Peter Guild is the Trumpet Chair; Micah Howard is the Principal Horn; Cynthia Koledo DeAlmeida is the Principal Oboe; Max Blair is the Associate Principal Clarinet; and Lorna McGhee is the Principal Flute.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which musicians in the Pittsburgh Symphony Orchestra hold principal chairs for specific instruments?",
+        "answer": "Adam Liu, Mikhail Istomin, Bronwyn Banerdt, Michael DeBruyn, Alexandra Lee, Yun-Ya Lo, Charlie Powers, Karissa Shivone, Nicholas Myers, Brandon McLean, Joseph Campagna, Peter Guild, Micah Howard, Cynthia Koledo DeAlmeida, Max Blair, and Lorna McGhee each hold principal chairs for their respective instruments.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which musicians in the Pittsburgh Symphony Orchestra are the Chairs for the Violin, Viola, Cello, and Bass sections?",
+        "answer": "Adam Liu is the Chair for the Violin section; Mikhail Istomin is the Chair for the Viola section; Bronwyn Banerdt is the Chair for the Cello section; and Karissa Shivone is the Chair for the Bass section.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 3
+    },
+    {
+        "question": "Who holds the principal position for piccolo in the Pittsburgh Symphony Orchestra?",
+        "answer": "Rhian Kenny\n\n        2.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which Pittsburgh Symphony Orchestra musicians currently hold the oboe and English horn chairs?",
+        "answer": "Cynthia Koledo DeAlmeida (oboe) and Ian Woodworth (English horn)\n\n        3.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which Pittsburgh Symphony Orchestra musicians hold the principal positions for bassoon and bass clarinet?",
+        "answer": "David Sogg (bassoon) and Victoria Luperi (bass clarinet)\n\n        4.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who holds the principal position for trumpet in the Pittsburgh Symphony Orchestra?",
+        "answer": "Martha Brooks Robinson\n\n        5.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which musicians in the Pittsburgh Symphony Orchestra have been appointed as Paul J. Ross Fellows?",
+        "answer": "Carlos Clark (contrabassoon) and Micah Wilkinson (trumpet)\n\n        6.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who currently holds the principal position for horn in the Pittsburgh Symphony Orchestra?",
+        "answer": "William Caballero\n\n        7.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which Pittsburgh Symphony Orchestra musicians hold the principal positions for clarinet, flute, and trombone?",
+        "answer": "Michael Rusinek (clarinet) ; no information provided for flute or trombone in the chunk.\n\n        8.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which musicians in the Pittsburgh Symphony Orchestra hold the acting principal position and the Sidney Stark, Jr. Memorial Chair?",
+        "answer": "Philip A. Pandolfi (acting principal) and David Sogg (Sidney Stark, Jr. Memorial Chair - bassoon)\n\n        9.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which Pittsburgh Symphony Orchestra musicians hold the principal positions for euphonium and tuba?",
+        "answer": "No information provided in the chunk.\n\n        10.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who is the principal conductor of the Pittsburgh Symphony Orchestra?",
+        "answer": "No information provided in the chunk.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who are some of the current principal musicians in the Pittsburgh Symphony Orchestra?",
+        "answer": "Hary Smith (Assistant Principal), Michelle Hembree (Assistant Principal Trumpet), Mark Houghton, Robert Lauver, Landon Young (Paul J. Ross Fellow Trumpet), Micah Wilkinson (Principal Trumpet), Martha Brooks Robinson (Principal Trumpet Chair), Conrad Jones (Associate Principal), Neal Berntsen, Chad Winkler (Susan S. Greer Memorial Chair), Joshua Carr (Paul J. Ross Fellow Trombone), Peter Sullivan (Principal), Tom & Jamee Todd Chair, Douglas F. Rosenthal (Associate Principal), James Nova (Ann McGuinn Trombone Chair), Jeffrey Dee (Principal Bass Trombone), William & Jacqueline Herbein Principal Bass Trombone Chair, Tuba Craig Knox, Principal, Dr. Mary Ann Craig Chair, Timpani James Benoit, Principal, Barbara Weldon Chair, Christopher Allen (Associate Principal Percussion), Rodrigo Ojeda (Mr. & Mrs. Benjamin F. Jones III Guest Keyboard Chair).\n\n        2.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 5
+    },
+    {
+        "question": "Who is the principal trumpet player in the Pittsburgh Symphony Orchestra?",
+        "answer": "Micah Wilkinson\n\n        3.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 5
+    },
+    {
+        "question": "Which musicians hold the principal chairs in the percussion and keyboard sections of the Pittsburgh Symphony Orchestra?",
+        "answer": "Christopher Allen (Associate Principal Percussion) and Rodrigo Ojeda (Mr. & Mrs. Benjamin F. Jones III Guest Keyboard Chair)",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/musicians",
+        "chunk_id": 5
+    },
+    {
+        "question": "Where can I find public transit information for Pittsburgh?",
+        "answer": "The Port Authority website provides helpful information on using public transit in Pittsburgh, including rider alerts, fees, schedules and maps, park and ride lots, and a trip planner.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 1
+    },
+    {
+        "question": "How can I get to Heinz Hall using public transit?",
+        "answer": "Heinz Hall is easily accessible via public transit. It is within walking distance of both the Gateway Center and Wood Street stations of the T light rail system, and several bus lines also stop within easy walking distance.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can I find parking information for Heinz Hall?",
+        "answer": "Heinz Hall is located within walking distance of over 6,500 parking spaces in the Cultural District. Season ticket holders can purchase pre-paid guaranteed parking in the 6th and Penn garage across the street from Heinz Hall for $18 per concert. Additionally, ParkPGH offers real-time parking updates on available parking spots in downtown Pittsburgh parking garages.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where is the official hotel of the Pittsburgh Symphony Orchestra located?",
+        "answer": "The Fairmont Pittsburgh is located at 510 Market Street, Pittsburgh.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which hotel is the Pittsburgh Symphony Orchestra's partner for guest accommodations?",
+        "answer": "The Pittsburgh Symphony Orchestra partners with the Fairmont Pittsburgh for guest accommodations.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "What services does Elite Coach Transportation offer?",
+        "answer": "Elite Coach Transportation offers coach bus, car, limousine, and van services.\n        You can contact them at (800) 488-7775.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "Where can visitors find parking in downtown Pittsburgh?",
+        "answer": "Visitors can get parking information from Visit ParkPGH.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the name of the luxury hotel where the Pittsburgh Symphony Orchestra's guest artists and conductors stay?",
+        "answer": "The Fairmont Pittsburgh is where the Pittsburgh Symphony Orchestra's guest artists and conductors stay.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which transportation company is the Pittsburgh Symphony Orchestra's official transportation service?",
+        "answer": "Elite Coach Transportation is the Pittsburgh Symphony Orchestra's official transportation service.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "How can visitors book accommodations at the Fairmont Pittsburgh?",
+        "answer": "Visitors can book accommodations at the Fairmont Pittsburgh through their official website: www.fairmont.com/pittsburgh.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of services does the Fairmont Pittsburgh offer?",
+        "answer": "The Fairmont Pittsburgh offers superb and distinctive guest services and accommodations in a luxury setting.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "Where is the Pittsburgh Symphony Orchestra's partnership hotel located in relation to the city's business, cultural, and dining hub?",
+        "answer": "The Fairmont Pittsburgh is located at the heart of Pittsburgh's business, cultural, and dining hub.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the phone number for Fairmont Pittsburgh's reservations?",
+        "answer": "The phone number for Fairmont Pittsburgh's reservations is 412.773.8800.",
+        "source_url": "https://www.pittsburghsymphony.org/pso_home/web/visit-landing/directions-parking-lodging",
+        "chunk_id": 2
+    },
+    {
+        "question": "When was the Pittsburgh Cultural Trust founded?",
+        "answer": "The Pittsburgh Cultural Trust was founded in 1984.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "What is the Pittsburgh Cultural Trust's main focus?",
+        "answer": "The Pittsburgh Cultural Trust's main focus is on the cultural and economic development of the Cultural District in downtown Pittsburgh, making it a vibrant center for culture, art, food, and community.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "What was the Cultural District before the Pittsburgh Cultural Trust's involvement?",
+        "answer": "Before the Pittsburgh Cultural Trust's involvement, the Cultural District was a downtrodden red light district.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "How many people visit the Cultural District each year?",
+        "answer": "Millions of people visit the Cultural District each year.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "What types of events and exhibitions can patrons enjoy in the Cultural District?",
+        "answer": "Patrons can enjoy thousands of world-class performing arts events and visual arts exhibitions in the Cultural District.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "What opportunities does the Trust offer for local residents?",
+        "answer": "The Trust offers comprehensive education and community engagement opportunities for local residents.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "How does the Pittsburgh Cultural Trust contribute to urban revitalization?",
+        "answer": "The Pittsburgh Cultural Trust stands as a nationwide model for how the arts can play a pivotal role in urban revitalization.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which local arts organizations collaborate with the Pittsburgh Cultural Trust?",
+        "answer": "The specific local arts organizations that collaborate with the Pittsburgh Cultural Trust are not mentioned in the content.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 1
+    },
+    {
+        "question": "What is the Pittsburgh Cultural Trust and what is its role in the city?",
+        "answer": "The Pittsburgh Cultural Trust is a non-profit organization that manages more than one million square feet of real estate in the Cultural District of Pittsburgh. It is responsible for presenting and managing vents and visual arts exhibitions, as well as providing education and community engagement opportunities. It is lauded as the single greatest creative force in Pittsburgh due to its spirit of reinvention and its role in enriching the city's vibrancy, diversity, and prosperity.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 2
+    },
+    {
+        "question": "What types of events does the Pittsburgh Cultural Trust organize and manage?",
+        "answer": "The Pittsburgh Cultural Trust organizes and manages various vents and visual arts exhibitions.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 2
+    },
+    {
+        "question": "What public art installations can be found in the Pittsburgh Cultural District?",
+        "answer": "Numerous public art installations can be found throughout the Pittsburgh Cultural District, adding beauty to the city's largest arts neighborhood.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the mission of the Pittsburgh Cultural Trust?",
+        "answer": "The Pittsburgh Cultural Trust strives every day to enrich the city of Pittsburgh's vibrancy, diversity, and prosperity.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which publication praised the Pittsburgh Cultural Trust for its spirit of reinvention?",
+        "answer": "The Pittsburgh Post Gazette",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 3
+    },
+    {
+        "question": "In what way does the Pittsburgh Cultural Trust contribute to the city of Pittsburgh?",
+        "answer": "The Pittsburgh Cultural Trust enriches the city of Pittsburgh's vibrancy, diversity, and prosperity.",
+        "source_url": "https://trustarts.org/pct_home/about",
+        "chunk_id": 3
+    },
+    {
+        "question": "What type of events are taking place at the Harris Theater during March 2025?",
+        "answer": "Film events are taking place at the Harris Theater during March 2025, specifically \"Vermiglio,\" \"Universal Language,\" and \"On Becoming a Guinea Fowl.\"",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who is presenting the event \"Shamrock Tenors\" at the Greer Cabaret Theater?",
+        "answer": "Dentons Cohen & Grigsby TRUST PRESENTS is presenting the event \"Shamrock Tenors\" at the Greer Cabaret Theater.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 1
+    },
+    {
+        "question": "When can visitors take a tour of Byham Theater?",
+        "answer": "Byham Theater tours are available from Wednesday, Sep 4, 2025, to Monday, Apr 28, 2025.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of event is \"ming a Guinea Fowl\" at Harris Theater in March 2025?",
+        "answer": "It is a Film event.\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is presenting Jeremy Piven's comedy talks & poetry performance on March 21, 2025?",
+        "answer": "Outback Presents is presenting the event.\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of organization is presenting the dance performance \"fireWALL Dance: On the Run\" at Greer Cabaret Theater?",
+        "answer": "fireWALL Dance Theater is the presenting organization.\n          \n        4.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "When is Jim Hensons Fraggle Rock: Back to the Rock LIVE! taking place at Byham Theater?",
+        "answer": "It is taking place on March 27, 2025.\n\n        5.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which venue is hosting \"Mr. Messado's School of Magic for the Young and Young at Heart\" from September 1, 2024, to March 23, 2025?",
+        "answer": "Liberty Magic is the hosting venue.\n\n        6.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which organization is presenting Desi Banks' comedy performance on March 23, 2025?",
+        "answer": "Outback Presents is the presenting organization.\n\n        7.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "Where is Jeremy Piven's VIP meet & greet taking place on March 21, 2025?",
+        "answer": "It is taking place at Byham Theater.\n\n        8.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "In which venue is the comedy performance \"Jeremy Piven Live\" taking place on March 21, 2025?",
+        "answer": "Byham Theater is the venue.\n\n        9.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of performance is \"fireWALL Dance: On the Run\" at Greer Cabaret Theater?",
+        "answer": "It is a Dance performance.\n\n        10.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "When does \"Mr. Messado's School of Magic for the Young and Young at Heart\" run at Liberty Magic?",
+        "answer": "It runs from September 1, 2024, to March 23, 2025.\n\n        11.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of event is \"Jim Hensons Fraggle Rock: Back to the Rock LIVE!\" on March 27, 2025, at Byham Theater?",
+        "answer": "It is a comedy event organized by Outback Presents.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which organization is presenting \"The Yellowjackets\" live music event on March 27, 2025, at Greer Cabaret Theater?",
+        "answer": "Pittsburgh Cultural Trust",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 3
+    },
+    {
+        "question": "What types of events are happening at Harris Theater from March 27 to April 2, 2025?",
+        "answer": "International Art House Classics: Picnic at Hanging Rock (1975) is a film event; Eephus is also a film event.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 3
+    },
+    {
+        "question": "Who is performing comedy at Byham Theater on March 28, 2025?",
+        "answer": "Danae Hays\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 4
+    },
+    {
+        "question": "What type of event is \"Creative Conversations Peter Pan\" on April 2, 2025?",
+        "answer": "Broadway & Musical Theater; Free\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which organization is hosting the film \"Steel City Horror Show\" at Harris Theater on March 30, 2025?",
+        "answer": "Pittsburgh Cultural Trust",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 4
+    },
+    {
+        "question": "What types of events are taking place at the Pittsburgh Cultural Trust in April 2025?",
+        "answer": "There are magic shows in the Liberty Magic organization, film screenings at the Harris Theater, a live music concert at the Benedum Center, a drama performance by Outback Presents, and a comedy show by JS Touring LLC. Specific events include Malin Nilsson in Magic: Unplugged, Oceans Are the Real Continents, Art Spiegelman: Disaster Is My Muse, The Thorn, and Jerry Seinfeld Live.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 5
+    },
+    {
+        "question": "Which organization is hosting the magic shows in April 2025?",
+        "answer": "Pittsburgh Cultural Trust",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 5
+    },
+    {
+        "question": "What is the name and type of event happening at the Harris Theater from April 4 to April 9, 2025?",
+        "answer": "Oceans Are the Real Continents; It is a film event.",
+        "source_url": "https://trustarts.org/calendar/1",
+        "chunk_id": 5
+    },
+    {
+        "question": "Who is performing at Byham Theater during the Pittsburgh Dance Council's event on April 19, 2025?",
+        "answer": "Twyla Tharp Dance\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of event is taking place at Benedum Center on April 21, 2025?",
+        "answer": "Bob Dylan: Rough and Rowdy Ways Tour is a Live Music Concert.\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What is the name of the children's theater series presenting a musical at Byham Theater on April 26, 2025?",
+        "answer": "Dentons Cohen & Grigsby\n\n        4.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What performance is taking place at Benedum Center between February 25 and April 28, 2025?",
+        "answer": "The Pittsburgh Cultural Trust is presenting a tour.\n\n        5.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which comedian is scheduled to perform at Benedum Center on May 1, 2025?",
+        "answer": "Stavros Halkias\n\n        6.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What is the title of the musical playing at Benedum Center from May 2 to May 4, 2025?",
+        "answer": "Come From Away\n\n        7.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "Who is presenting the TRUST PRESENTS Series event featuring Bruce Hornsby and yMusic at Byham Theater on May 4, 2025?",
+        "answer": "Dentons Cohen & Grigsby\n\n        8.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of performance is Kaiju Big Battel: Breakfast of Champions at Byham Theater on May 3, 2025?",
+        "answer": "Kaiju Big Battel: Breakfast of Champions is a Live Music and Ballet & Dance event.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of events are taking place at Byham Theater in May 2025, according to the Pittsburgh Cultural Trust's calendar?",
+        "answer": "The Byham Theater will host various events in May 2025, including live music concerts by Bruce Hornsby and yMusic, Patina Miller, Herb Alpert & The Tijuana Brass, and 360 ALLSTARS; a ballet performance by Malandain Ballet Biarritz; a comedy show by Trevor Wallace; and a family-friendly show by Family 123.\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who are some of the artists performing at Byham Theater in May 2025, as per the Pittsburgh Cultural Trust's calendar?",
+        "answer": "Bruce Hornsby and yMusic, Patina Miller, Trevor Wallace, Herb Alpert & The Tijuana Brass, and 360 ALLSTARS are some of the artists performing at Byham Theater in May 2025, according to the Pittsburgh Cultural Trust's calendar.\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 2
+    },
+    {
+        "question": "What is the schedule for Trevor Wallace's comedy show at Byham Theater in May 2025?",
+        "answer": "Trevor Wallace's comedy show at Byham Theater is scheduled for May 9, 2025. Additionally, there is a Post Show Meet & Greet Add-on for this event.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 2
+    },
+    {
+        "question": "Which theater in Pittsburgh is hosting the \"Ass & Other Delights\" live music concert on May 12, 2025?",
+        "answer": "Byham Theater\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "What type of event is happening at Benedum Center on May 25, 2025, with three cancelled film concerts?",
+        "answer": "The event on May 25, 2025, at Benedum Center involves three cancelled film concerts.\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which comedian is performing at Byham Theater on June 11, 2025?",
+        "answer": "Sarah Millican\n\n        4.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "What organization is presenting the \"360 ALLSTARS\" live music concert at Byham Theater on May 14, 2025?",
+        "answer": "Martin Media Presents\n\n        5.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which theater in Pittsburgh is hosting the \"DVE Comedy Festival\" on June 21, 2025?",
+        "answer": "Byham Theater\n\n        6.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Who is the comedian performing at Byham Theater on June 22, 2025?",
+        "answer": "Jimmy Carr\n\n        7.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which organization is presenting the \"Trisha Paytas: The Eras of Trish Tour\" at Benedum Center on June 5, 2025?",
+        "answer": "Outback Presents",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 3
+    },
+    {
+        "question": "Which comedy festival is taking place at Byham Theater in June 2025?",
+        "answer": "Comedy DVE Comedy Festival\n\n        2.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 4
+    },
+    {
+        "question": "Who will be performing at Byham Theater on July 13, 2025, under the Fellowship for Performing Arts?",
+        "answer": "Comedy Bridges & Brushstrokes: STEAM Studio Camp\n\n        3.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 4
+    },
+    {
+        "question": "Which comedian is scheduled to perform at Byham Theater on August 15 and 16, 2025, under Drusky Entertainment?",
+        "answer": "Josh Johnson: The Flowers Tour",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 4
+    },
+    {
+        "question": "What comedy shows are coming up at the Benedum Center in October 2025?",
+        "answer": "The Edy Killers will perform on Saturday, October 4, and Outback Presents Comedy: A Tribute to ABBA will take place on Wednesday, October 8.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 5
+    },
+    {
+        "question": "Which artists are performing live music concerts at Byham Theater and Benedum Center in November 2025?",
+        "answer": "Steve Martin & Martin Short will perform at the Benedum Center on November 21 and 22, and there is also a live music concert at Byham Theater, but the artist is not specified in the given content.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 5
+    },
+    {
+        "question": "Who is presenting the comedy show \"Comedy\" at the Byham Theater in October 2025?",
+        "answer": "Pittsburgh Cultural Trust is presenting the comedy show \"Comedy\" at the Byham Theater in October 2025. However, no specific artist or title is mentioned in the given content.",
+        "source_url": "https://trustarts.org/calendar/2",
+        "chunk_id": 5
+    },
+    {
+        "question": "What are the operating hours of the galleries at the Pittsburgh Cultural Trust?",
+        "answer": "The galleries at the Pittsburgh Cultural Trust are open Wednesday through Sunday, from 11am to 5pm. They are closed from 1 to 1:30pm.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which universities art exhibition is currently on display at the SPACE Gallery?",
+        "answer": "The exhibition currently on display at the SPACE Gallery is \"Free Visual Arts: Melike Konur: Women I've Been.\"",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "What type of art is showcased at Wood Street Galleries?",
+        "answer": "Wood Street Galleries specialize in new and emerging media.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "Where can visitors find information about upcoming exhibitions at the Pittsburgh Cultural Trust?",
+        "answer": "Visitors can join the email list of the Pittsburgh Cultural Trust to receive information about upcoming exhibitions.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which university's MFA students' works are currently on display at the Pittsburgh Cultural Trust's Film Free gallery?",
+        "answer": "The works of Carnegie Mellon University's 1st and 2nd year MFA students are currently on display at the Pittsburgh Cultural Trust's Film Free gallery.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "Which exhibition space at the Pittsburgh Cultural Trust is dedicated to contemporary art by regional, national, and international artists?",
+        "answer": "The Galleries at the Pittsburgh Cultural Trust, which include Wood Street Galleries, SPACE Gallery, 820 Gallery, and others, are dedicated to contemporary art by regional, national, and international artists.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "Is admission to the galleries at the Pittsburgh Cultural Trust free?",
+        "answer": "Yes, admission to the galleries at the Pittsburgh Cultural Trust is free.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 1
+    },
+    {
+        "question": "When is the next free visual arts exhibition at SPACE Gallery by the Pittsburgh Cultural Trust?",
+        "answer": "The next free visual arts exhibition at SPACE Gallery by the Pittsburgh Cultural Trust is \"Celebrating 45 Years of CAPA: Alumni and Faculty Exhibition\" from August 29, 2025, to January 25, 2026.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 2
+    },
+    {
+        "question": "What type of art projects has the Pittsburgh Cultural Trust commissioned since 1984?",
+        "answer": "The Pittsburgh Cultural Trust has commissioned ambitious and transformative temporary and permanent public art projects throughout the downtown Pittsburgh area since 1984, engaging with artists from broad disciplines.",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 2
+    },
+    {
+        "question": "Who is the artist for the upcoming exhibition \"A Sudden Gust of Wind\" and when is it happening?",
+        "answer": "Thaddeus Mosley is the artist for the upcoming exhibition \"A Sudden Gust of Wind,\" which is scheduled from April 26, 2025, to March 31, 2026. (Note: The end date in the content seems to be a typo and should be April 2026 instead of March 2025.)",
+        "source_url": "https://trustarts.org/pct_home/visual-arts#upcoming",
+        "chunk_id": 2
+    }
+]
