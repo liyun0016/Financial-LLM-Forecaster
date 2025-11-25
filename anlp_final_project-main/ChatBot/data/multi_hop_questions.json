@@ -1,0 +1,1052 @@
+[
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I improve my credit score quickly?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "How can I quickly improve my credit score in order to qualify for a better interest rate on a loan, and how might the anticipated movements of the Dow Jones next week influence my decision to apply for that loan?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I improve my credit score quickly?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What immediate steps can I take to quickly improve my credit score, and how might these actions influence my ability to invest in Microsoft stock, particularly considering the potential for its price to fluctuate next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I improve my credit score quickly?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What steps can I take to quickly improve my credit score, and how might these actions influence my ability to invest in Meta shares, considering the potential for their price to rise next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I improve my credit score quickly?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What are some effective strategies to quickly improve my credit score, and given those improvements, how might a better credit profile influence my investment decisions, particularly regarding whether I should invest in Bitcoin if it is expected to break past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I improve my credit score quickly?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "How can I quickly improve my credit score to better position myself for a loan, and based on current market trends, should I consider investing in Salesforce before its expected drop next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How do I calculate my break-even point for a small business?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "How do I calculate my break-even point for my small business, taking into account fixed and variable costs, while also considering the potential impact of the Dow Jones Industrial Average's rise or fall next week on consumer spending and overall market sentiment?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How do I calculate my break-even point for a small business?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "To effectively manage my small business's finances, I need to first calculate my break-even point by determining my fixed and variable costs. After calculating this, I want to understand how fluctuations in the stock market, particularly in Microsoft stock, might impact my business's financial health. Specifically, if I find that Microsoft stock is expected to go down next week, how might that influence my break-even analysis and decision-making regarding expenses and investments for my business? \n\nCan you guide me through the steps to calculate my"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How do I calculate my break-even point for a small business?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "To determine whether I should invest in Meta shares next week, I first need to calculate my break-even point for my small business, taking into account my current expenses and projected revenue. Once I have that figure, I want to analyze how achieving or exceeding that break-even point could impact my cash flow and ability to invest in Meta. After calculating my break-even point, can you help me assess whether the anticipated performance of Meta shares next week aligns with my financial strategy based on that break-even analysis?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How do I calculate my break-even point for a small business?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "To effectively manage my small business's finances, I need to first calculate my break-even point to understand the minimum sales needed to cover my costs. Once I've done that, I want to explore the potential impact of market trends on my investment in Bitcoin. Specifically, can you guide me through the process of calculating my break-even point, and then analyze whether Bitcoin is likely to break past its resistance level next week, which could influence my decision to invest any profits from my business?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How do I calculate my break-even point for a small business?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "To effectively manage your small business and make informed investment decisions, first, how do you calculate your break-even point to determine the minimum sales needed to cover your costs? Then, considering your financial goals, if Salesforce is expected to drop next week, how might this anticipated decrease in stock value impact your decision to reinvest profits after reaching your break-even point?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How should I allocate my 401(k) in a volatile market?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "Given the current volatility in the market, how should I strategically allocate my 401(k) investments to minimize risk and maximize potential returns, while also considering predictions regarding whether the Dow Jones is likely to rise or fall next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How should I allocate my 401(k) in a volatile market?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "In the context of navigating a volatile market, how should I allocate my 401(k) investments to optimize stability and growth, considering the potential short-term fluctuations in the stock market, including the specific forecast for Microsoft stock, which is expected to either rise or fall next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How should I allocate my 401(k) in a volatile market?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "In a volatile market, what strategies should I employ to allocate my 401(k) effectively, particularly if I am considering investing a portion of my contributions in Meta shares, and based on current market trends and analyst predictions, what is the likelihood that Meta shares will rise next week, influencing my allocation decision?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How should I allocate my 401(k) in a volatile market?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "Given the current volatility in the market, how should I allocate my 401(k) investments to mitigate risk while also considering the potential impact of Bitcoin's price movement? Specifically, if Bitcoin is predicted to break past its resistance level next week, how might that influence my decision on whether to increase my allocation to cryptocurrency-related assets within my 401(k), or should I prioritize more stable investments instead?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How should I allocate my 401(k) in a volatile market?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "How should I allocate my 401(k) in a volatile market while considering the potential impact of Salesforce's expected performance next week, specifically if analysts predict a drop in Salesforce stock that could affect my investment strategy?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "What is the best savings strategy for a child's college education?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the best savings strategy for a child's college education, considering the potential impact of the Dow Jones Industrial Average's performance next week on investment options, and how might fluctuations in the stock market influence long-term savings plans for education?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "What is the best savings strategy for a child's college education?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "Considering the rising costs of college education, what is the most effective savings strategy to ensure sufficient funds for a child's college expenses, and how might the upcoming fluctuations in Microsoft stock prices next week impact the investment potential of using a portion of those savings to invest in Microsoft shares?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "What is the best savings strategy for a child's college education?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "How can I develop an effective savings strategy for my child's college education while considering the potential impact of Meta shares rising next week on my overall investment portfolio? Specifically, what percentage of my savings should I allocate to a college fund versus investing in Meta shares to maximize both my child's future education funding and my investment returns?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "What is the best savings strategy for a child's college education?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What savings strategy should parents implement for their child's college education, considering the potential volatility of cryptocurrencies like Bitcoin, which some analysts predict may break past its resistance level next week? Additionally, how might the performance of Bitcoin influence parents' decisions on whether to allocate a portion of their savings into crypto assets versus traditional savings accounts?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "What is the best savings strategy for a child's college education?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What savings strategy would be most effective for funding a child's college education while also considering the potential impact of a possible drop in Salesforce shares next week on the family's investment portfolio?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I legally reduce my tax liability as a freelancer?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "As a freelancer looking to legally reduce my tax liability, what specific strategies should I implement to maximize my deductions and credits, and how might my financial decisions this week, particularly regarding investments in the stock market, be influenced by forecasting whether the Dow Jones will rise or fall next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I legally reduce my tax liability as a freelancer?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "As a freelancer looking to legally reduce my tax liability, what specific deductions or strategies should I consider implementing in the upcoming tax year, and how might my investment decisions, particularly regarding Microsoft stock, be influenced by my current financial situation and tax obligations, especially if predictions suggest volatility in the stock's performance next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I legally reduce my tax liability as a freelancer?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "As a freelancer looking to legally reduce my tax liability, what strategies can I implement that might also enable me to invest in Meta shares? Additionally, considering potential market trends and financial news, what factors should I evaluate this week that could influence whether Meta shares are likely to rise next week, thus impacting my investment decision?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I legally reduce my tax liability as a freelancer?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "As a freelancer looking to optimize my finances, what legal strategies can I implement to reduce my tax liability, and considering the current market trends, how might these strategies be affected if Bitcoin breaks past its resistance level next week, potentially influencing my investment decisions?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "How can I legally reduce my tax liability as a freelancer?",
+                    "output": "It depends on your goals, but consider strategies like diversification, tax planning, and emergency savings.",
+                    "instruction": "Utilize your financial knowledge, give your answer or opinion to the input question or subject. Answer format is not limited.",
+                    "module": "FinQA"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What legal strategies can I implement to reduce my tax liability as a freelancer, and how might my decision to invest in Salesforce stock, given its expected performance next week, impact my overall financial situation and tax obligations?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the headquarters location of Goldman Sachs?",
+                    "output": "headquarters_location: Goldman Sachs, New York",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the headquarters location of Goldman Sachs, and considering its influence in the financial markets, how might this impact predictions on whether the Dow Jones will rise or fall next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the headquarters location of Goldman Sachs?",
+                    "output": "headquarters_location: Goldman Sachs, New York",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the headquarters location of Goldman Sachs, and how might that location influence market perceptions of the company in relation to the overall financial environment, potentially affecting whether Microsoft stock will go up or down next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the headquarters location of Goldman Sachs?",
+                    "output": "headquarters_location: Goldman Sachs, New York",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the headquarters location of Goldman Sachs, and based on current market trends and analyst predictions, what factors could influence whether Meta shares rise next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the headquarters location of Goldman Sachs?",
+                    "output": "headquarters_location: Goldman Sachs, New York",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the headquarters location of Goldman Sachs, and how might the financial strategies employed by institutions like Goldman Sachs influence the likelihood of Bitcoin breaking past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the headquarters location of Goldman Sachs?",
+                    "output": "headquarters_location: Goldman Sachs, New York",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the headquarters location of Goldman Sachs, and based on current financial analyses and market trends, is Salesforce expected to drop in value next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Netflix?",
+                    "output": "founded_by: Netflix, Reed Hastings",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact did the founding of Netflix by its co-founder have on the entertainment industry, and how might this influence investor sentiment regarding the Dow Jones index's performance in the upcoming week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Netflix?",
+                    "output": "founded_by: Netflix, Reed Hastings",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact did the founding of Netflix by its co-founder have on the overall entertainment industry, and how might this influence investor sentiment towards technology stocks like Microsoft, potentially affecting whether Microsoft\u2019s stock will go up or down next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Netflix?",
+                    "output": "founded_by: Netflix, Reed Hastings",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact did the founding of Netflix by its co-founder have on the streaming industry, and how might this influence investor sentiment towards Meta shares, potentially affecting whether they will rise next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Netflix?",
+                    "output": "founded_by: Netflix, Reed Hastings",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "Considering the financial landscape and the influence of major companies on market trends, can you explain who founded Netflix and how the company's growth and innovation in the entertainment sector might impact investor sentiment towards Bitcoin, particularly in relation to whether Bitcoin will break past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Netflix?",
+                    "output": "founded_by: Netflix, Reed Hastings",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact did the founding of Netflix by Reed Hastings and Marc Randolph have on the broader tech industry, and how might this influence investor sentiment regarding Salesforce's expected stock performance next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the stock exchange of Apple?",
+                    "output": "stock_exchange: Apple, NASDAQ",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the stock exchange where Apple is listed, and based on current market trends and economic indicators, do you predict that the Dow Jones will rise or fall next week, considering the performance of major companies like Apple?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the stock exchange of Apple?",
+                    "output": "stock_exchange: Apple, NASDAQ",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What stock exchange is Apple listed on, and based on current market trends and analyst predictions, what is the likelihood that Microsoft stock will increase in value next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the stock exchange of Apple?",
+                    "output": "stock_exchange: Apple, NASDAQ",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the stock exchange where Apple is listed, and based on current market trends and forecasts, will Meta shares rise next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the stock exchange of Apple?",
+                    "output": "stock_exchange: Apple, NASDAQ",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the performance of Apple\u2019s stock on its respective exchange have on investor sentiment towards Bitcoin, and how could this sentiment influence whether Bitcoin breaks past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the stock exchange of Apple?",
+                    "output": "stock_exchange: Apple, NASDAQ",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the stock exchange where Apple is listed, and based on current market trends, is Salesforce expected to drop in value next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the chief executive officer of Google?",
+                    "output": "chief_executive_officer: Google, Sundar Pichai",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the leadership of Google's CEO have on investor sentiment towards major technology stocks, and how could this sentiment influence the Dow Jones Industrial Average's performance in the upcoming week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the chief executive officer of Google?",
+                    "output": "chief_executive_officer: Google, Sundar Pichai",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the leadership of Google's CEO have on the tech industry's overall performance, and how could this influence investor sentiment regarding Microsoft's stock movement next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the chief executive officer of Google?",
+                    "output": "chief_executive_officer: Google, Sundar Pichai",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact does the leadership of Google, specifically the chief executive officer, have on investor sentiment towards Meta, and based on this sentiment, what might be the predicted movement of Meta shares next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the chief executive officer of Google?",
+                    "output": "chief_executive_officer: Google, Sundar Pichai",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact does the leadership of Google\u2019s chief executive officer have on the broader technology market, and how might this influence investor sentiment towards Bitcoin's potential to break past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the chief executive officer of Google?",
+                    "output": "chief_executive_officer: Google, Sundar Pichai",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the leadership of Google's chief executive officer have on the stock market, and how could that influence investor sentiment towards Salesforce, particularly regarding expectations for its performance next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Robinhood?",
+                    "output": "founded_by: Robinhood, Vlad Tenev",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will the Dow Jones rise or fall next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the founding of Robinhood by its founders have on investor sentiment and trading behavior, and how could these factors potentially influence whether the Dow Jones will rise or fall next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Robinhood?",
+                    "output": "founded_by: Robinhood, Vlad Tenev",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Microsoft stock go up or down next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "Considering the recent developments in the financial markets and the impact of new trading platforms like Robinhood, can you first identify the founder of Robinhood and then analyze how the introduction of such platforms may influence investor sentiment towards Microsoft? Based on this analysis, what are the potential factors that could lead to Microsoft stock going up or down next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Robinhood?",
+                    "output": "founded_by: Robinhood, Vlad Tenev",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Meta shares rise next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact did the founding of Robinhood by its founders have on the overall investment landscape, and how might this influence investor sentiment towards Meta shares, potentially affecting their price movement next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Robinhood?",
+                    "output": "founded_by: Robinhood, Vlad Tenev",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Will Bitcoin break past its resistance level next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What impact might the founding actions and strategies of Robinhood's founders have on the overall cryptocurrency market, particularly regarding investor sentiment towards Bitcoin, and do you think this sentiment will influence whether Bitcoin breaks past its resistance level next week?"
+    },
+    {
+        "original_questions": [
+            {
+                "input": {
+                    "input": "Who is the founded by of Robinhood?",
+                    "output": "founded_by: Robinhood, Vlad Tenev",
+                    "instruction": "Extract structured relations about companies or financial entities mentioned in the input.",
+                    "module": "FinRED"
+                }
+            },
+            {
+                "input": {
+                    "input": "Is Salesforce expected to drop next week?",
+                    "output": "[Positive Developments]: Strong earnings, favorable macro trends. [Potential Concerns]: Technical resistance, volatility.\n\n[Prediction & Analysis]: Prediction: Up 2\u20134%. Analysis: Market sentiment and fundamentals suggest modest gains.",
+                    "instruction": "Based on your knowledge, forecast the stock or crypto price movement and provide a brief analysis.",
+                    "module": "Forecaster"
+                }
+            }
+        ],
+        "multi_hop_question": "What is the name of the founder of Robinhood, and how might the financial market conditions influenced by the performance of Salesforce next week impact the investment strategies of Robinhood users?"
+    }
+]
